@@ -10,9 +10,9 @@ author: Jane Doe
 
 | Data Item                                  | Size per Item | 
 |--------------------------------------------|--------------:|
-| 128 character message.                     | ? Bytes       |
-| 1024x768 PNG image                         | ? MB          |
-| 1024x768 RAW image                         | ? MB          | 
+| 128 character message.                     | 128 Bytes       |
+| 1024x768 PNG image                         | 3 MB          |
+| 1024x768 RAW image                         | 3 MB          | 
 | HD (1080p) HEVC Video (15 minutes)         | ? MB          |
 | HD (1080p) Uncompressed Video (15 minutes) | ? MB          |
 | 4K UHD HEVC Video (15 minutes)             | ? MB          |
